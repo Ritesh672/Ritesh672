@@ -19,8 +19,8 @@ https://github.com/Ritesh672
 - 🖥️ Frontend Development: HTML, CSS, JavaScript
 - 💻 Python Programming
 - 📊 Data Science: Pandas, NumPy, Matplotlib, Seaborn
-- 🤖 AI and Machine Learning: (List your libraries/tools here)
-- ⚡ Basic Electronics: (Mention what you're learning)
+- 🤖 AI and Machine Learning: 
+- ⚡ Basic Electronics: Aurdino and microcontrollers
 
 ## Reach Me
 
